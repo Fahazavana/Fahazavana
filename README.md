@@ -29,8 +29,7 @@
 <details>
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahazavana&hide_border=true&card_width=338&theme=transparent" /><img src="https://github-readme-stats.vercel.app/api?username=Fahazavana&hide_border=true&show_icons=true"/> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahazavana&langs_count=10&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp&layout=default&card_width=699&hide_border=true&theme=transparent" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahazavana&layout=donut&langs_count=8">
 </details>
 
 <p align="center">
