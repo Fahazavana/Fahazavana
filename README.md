@@ -22,7 +22,7 @@ I’m currently pursuing a master’s degree in Machine Learning and Artificial 
                 <img src="https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=&color=5a5a67"/>
                 <img src="https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=&color=5a5a67"/>
                 <img src="https://img.shields.io/badge/-Probabilistic%20Modelling-05122A?style=flat&logo=&color=5a5a67"/>
-                <img src="https://img.shields.io/badge/-Web%Development-05122A?style=flat&logo=&color=5a5a67"/>
+                <img src="https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=&color=5a5a67"/>
                 <img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=&color=5a5a67"/>
                 <img src="https://img.shields.io/badge/-PDEs-05122A?style=flat&logo=&color=5a5a67"/>
         </td>
