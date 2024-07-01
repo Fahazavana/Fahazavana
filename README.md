@@ -24,7 +24,7 @@ I’m currently pursuing a master’s degree in Machine Learning and Artificial 
                 <img src="https://img.shields.io/badge/-Probabilistic%20Modelling-05122A?style=flat&logo=&color=5a5a67"/>
                 <img src="https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=&color=5a5a67"/>
                 <img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=&color=5a5a67"/>
-                <img src="https://img.shields.io/badge/-PDEs-05122A?style=flat&logo=&color=5a5a67"/>
+                <img src="https://img.shields.io/badge/-Numerical%20Analysis-05122A?style=flat&logo=&color=5a5a67"/>
         </td>
         <td style="border:none;"> 
             <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=5a5a67"/>
@@ -35,7 +35,6 @@ I’m currently pursuing a master’s degree in Machine Learning and Artificial 
             <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=5a5a67"/>
             <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=5a5a67"/>
             <img src="https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=5a5a67"/>
-            <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=5a5a67"/>
             <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=5a5a67"/>
             <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=5a5a67"/>
             <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=5a5a67"/>
