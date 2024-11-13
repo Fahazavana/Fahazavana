@@ -9,7 +9,7 @@ I’m currently pursuing a master’s degree in Machine Learning and Artificial 
 <p align="center">
 
 [<img src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://fahazavana.github.io/"/>](https://fahazavana.github.io/)
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/randrianantenaina-jean-lucien-82b98622b/) 
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>](https://linkedin.com/in/jean-lucien-randrianantenaina-82b98622b/) 
 [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>](mailto:rjlucienaina@gmail.com) 
 [<img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rjlucienaina"/>](https://twitter.com/rjlucienaina) <img src="https://komarev.com/ghpvc/?username=Fahazavana&color=blue&style=flat)" /> [<img src="https://img.shields.io/github/followers/Fahazavana?label=Follow&style=social"/>](https://github.com/Fahazavana) 
 
