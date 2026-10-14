@@ -1,80 +1,78 @@
-<h1 align="center">Hi there! 👋 Welcome to my GitHub.</h1>
+<!-- GitHub profile README: github.com/Fahazavana/Fahazavana -->
 
-<p align="center">
-Here, you'll find a collection of my academic and personal projects across Mathematics, Artificial Intelligence, and Web Development. I'm excited to share my work and journey with you!
+<div align="center">
+
+# Jean Lucien Randrianantenaina
+
+**PhD Student in Computer Science · University of Bath, UK**
+
+*Efficient AI · Machine Learning · Mathematics · Software Development*
+
+<p>
+  <a href="https://rjlucien.cc/"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rj-lucien/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0000-5316-4760"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="mailto:rjlucienaina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+</div>
 
 ---
 
-## About Me
+### About me
 
-I'm currently pursuing a Master's degree in Machine Learning and Artificial Intelligence at Stellenbosch University, South Africa.
+I'm a PhD student in Computer Science at the **University of Bath**, working on efficient machine learning. I study how to reduce the memory and computational demands of neural networks while preserving task performance, particularly through model compression and more efficient execution.
 
-My academic background is rooted in Mathematics, starting with a Bachelor of Science in Fundamental Mathematics. I then completed a structured Master's in Mathematical Science, focusing on fundamental science, followed by a research-based Master's in Fundamental Mathematics.
+My background is in mathematics. Alongside research, I build machine learning applications and backend systems, and I have experience teaching mathematics and computing.
+
+### Research focus
+
+| Area | Interests |
+| :--- | :--- |
+| **Model compression** | Pruning, sparsity, quantisation, and their interaction |
+| **Efficient learning** | Sparse training and parameter-efficient adaptation |
+| **Efficient inference** | Adaptive computation, practical runtime costs, and resource-constrained deployment |
+| **Mathematical methods** | Optimisation, numerical methods, and algorithm design |
+
+### Selected projects
+
+| Repository | Description |
+| :--- | :--- |
+| [**Reinforcement Learning**](https://github.com/Fahazavana/Reinforcement_Learning) | Q-learning, SARSA, and deep Q-learning experiments on navigation tasks. |
+| [**Neural Machine Translation**](https://github.com/Fahazavana/Neural_Machine_Translation) | Transformer-based English–Afrikaans machine translation experiments. |
+| [**N-gram Language Models & BPE**](https://github.com/Fahazavana/NGramLMs_BPE) | Language modelling and subword tokenisation implementations. |
+| [**MK-Forum**](https://github.com/Fahazavana/MK-Forum) | A Django-based web forum project. |
+
+### Tools and technologies
+
+**Machine learning and research**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
+
+**Software development**
+
+<p>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+<sub>Also working with TensorFlow, JAX, pandas, Flask, Node.js, SQL, Bash, Linux, and LaTeX.</sub>
 
 ---
 
-## Skills
+<div align="center">
 
-Here are some of the areas I work with and technologies I use:
-### Domains:
-<p align="center">
-    <img src="https://img.shields.io/badge/-Optimization-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Probabilistic%20Modelling-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Numerical%20Analysis-05122A?style=flat&logo=&color=5a5a67"/>
-</p>
+**More about my work:** [rjlucien.cc](https://rjlucien.cc/) · **Code:** [github.com/Fahazavana](https://github.com/Fahazavana)
 
-### Technologies:
-<p align="center">
-    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-JAX-05122A?style=flat&logo=JAX&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=5a5a67"/>
-    <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeJS&color=5a5a67"/>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahazavana&layout=compact&hide_border=true&hide=tex,html,css&theme=transparent"/>
-</p>
-
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahazavana&theme=transparent" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahazavana&hide_border=true&card_width=338&theme=transparent"/>
-</p>
-
----
-
-## Connect with Me
-
-<p align="center">
-        
-[<img src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://fahazavana.github.io/"/>](https://fahazavana.github.io/)
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>](https://linkedin.com/in/jean-lucien-randrianantenaina-82b98622b/)
-[<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>](mailto:rjlucienaina@gmail.com)
-[<img src="https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rjlucienaina"/>](https://twitter.com/rjlucienaina)
-<img src="https://komarev.com/ghpvc/?username=Fahazavana&color=blue&style=flat)" />
-[<img src="https://img.shields.io/github/followers/Fahazavana?label=Follow&style=social"/>](https://github.com/Fahazavana)
-
-</p>
-
----
-
-<p align="center">
-Thanks for stopping by!
-</p>
+</div>
