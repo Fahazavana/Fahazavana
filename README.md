@@ -9,7 +9,7 @@
 *Efficient AI · Machine Learning · Mathematics · Software Development*
 
 <p>
-  <a href="https://rjlucien.cc/"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://fahazavana.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rj-lucien/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://orcid.org/0009-0000-5316-4760"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
   <a href="mailto:rjlucienaina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white"></a>
