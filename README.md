@@ -73,6 +73,6 @@ My background is in mathematics. Alongside research, I build machine learning ap
 
 <div align="center">
 
-**More about my work:** [rjlucien.cc](https://rjlucien.cc/) · **Code:** [github.com/Fahazavana](https://github.com/Fahazavana)
+**More about my work:** [rjlucien.cc](https://fahazavana.github.io/) · **Code:** [github.com/Fahazavana](https://github.com/Fahazavana)
 
 </div>
